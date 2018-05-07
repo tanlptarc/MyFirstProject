@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MyFirstProject</string>
+    <string name="testing">testing next line please</>
 </resources>
